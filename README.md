@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Numpy, Pandas, ML, DL, Artificial Intelligence**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about ** Machine Learning,Python and little about C++**
  
 - 📫 How to reach me **adityakesharwani10@gmail.com**
 
