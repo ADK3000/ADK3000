@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Machine Learning Algorithms**
 
 - 🌱 I’m currently learning **Numpy, Pandas, ML, DL, Artificial Intelligence**
-
+ 
 - 💬 Ask me about ** Machine Learning,Python and little about C++**
  
 - 📫 How to reach me **adityakesharwani10@gmail.com**
