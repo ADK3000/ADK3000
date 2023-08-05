@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Kesharwani</h1>
+<h1 align="center">Hi Everyone👋, I'm Aditya Kesharwani</h1>
 <h3 align="center">A passionate DATA SCIENCE ENTHUSIAST from India</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adk3000" alt="adk3000" /></a> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Numpy, Pandas, ML, DL, Artificial Intelligence**
    
-- 💬 Ask me about ** Machine Learning,Python and little about C++**
+- 💬 Ask me about ** Machine Learning,Python and C++**
  
 - 📫 How to reach me **adityakesharwani10@gmail.com**
  
