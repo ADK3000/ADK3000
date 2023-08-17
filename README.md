@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ** Machine Learning,Python and C++**
 
-- 📫 How to reach me **adityakesharwani10@gmail.com**
+- 📫 How to reach me **adityakesharwani10@gmail.com** 
  
 - ⚡ Fun fact ** I have a good sarcasm and can perform anything better than the person who taught me that certain thing **
 
