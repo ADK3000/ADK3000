@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Algorithms**
   
-- 🌱 I’m currently learning **Numpy, Pandas, ML, DL, Artificial Intelligence**
+- 🌱 I’m currently learning **Numpy, Pandas, ML, DL, Artificial Intelligence** 
 
 - 💬 Ask me about ** Machine Learning,Python and C++**
 
