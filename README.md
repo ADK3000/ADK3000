@@ -16,13 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-kesharwani-867b2426b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kesharwani-867b2426b" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/adityakesharwan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@adityakesharwan2" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/adityakeshc2ng/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityakeshc2ng/profile" height="30" width="40" /></a>
-
 <a href="https://kaggle.com/adityakesharwani3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adityakesharwani3000" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/adk3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adk3000" height="30" width="40" /></a>
 
 
